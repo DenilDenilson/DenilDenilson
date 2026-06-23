@@ -1,4 +1,3 @@
-```md
 # Hola, soy Denilson Trujillo 👋
 
 Soy bachiller de Ingeniería Física por la UNI y desarrollador enfocado en **backend, automatización, sistemas e IoT**.
@@ -129,4 +128,3 @@ Especialmente en equipos donde pueda aportar construyendo APIs, herramientas int
 - GitHub: [github.com/DenilDenilson](https://github.com/DenilDenilson)
 
 Estoy usando este perfil para documentar mejor lo que construyo, los problemas que encuentro y las decisiones técnicas que voy tomando.
-```
